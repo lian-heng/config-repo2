@@ -1,4 +1,4 @@
-profile: ms21-dev
+profile: ms2-1-dev
 spring:
   datasource:
     username: root
