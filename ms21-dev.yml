@@ -1,1 +1,5 @@
 profile: ms21-dev
+spring:
+  datasource:
+    username: root
+    password: '{cipher}1a2351170e200d6137d76fee0b54fda6a933c9e66609fc865e46f06d62a986e8'
